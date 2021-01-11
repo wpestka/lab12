@@ -1,6 +1,10 @@
-\documentclass{book}
+\documentclass{amsbook}
 \usepackage[utf8]{inputenc}
 \usepackage{polski}
+\usepackage{booktabs}
+\usepackage{graphicx}
+
+
 \title{Ekspansja terytorialna i polityczna Rosji od 1795 do 1914 r.}
 \author{Weronika Pestka} 
 
@@ -8,11 +12,11 @@
 \begin{document}
 \maketitle
 \chapter{Wstęp}
+\Large\emph{
+Ogrom Imperium Rosyjskiego wiąże się z chęcią carskich możnowładców do podporządkowania sobie znacznej ilości terytoriów i zdobyciem wpływów w najdalszych zakątkach świata. Nazwa \textbf{Imperium~Rosyjskie} została ustanowiona w 1721 r., kiedy to 
+Piotr I przyjął tytuł cesarza (imperatora) i pozostawała w użyciu aż do abdykacji Mikołaja II po wydarzeniach w lutym 1917 r. W tej pracy chciałabym podsumować działania caratu w latach 1795 – 1914, mające na celu poszerzenie terytoriów i wpływów politycznych, od trzeciego rozbioru Polski aż po wybuch I wojny światowej. Imperium Rosyjskie w szczycie swojej potęgi rozciągało się od Morza Czarnego aż po Ochockie, oraz od Morza Arktycznego do terenów dzisiejszej Mongolii, a na kontynencie amerykańskim było w posiadaniu Alaski, co czyniło je trzecim największym terytorialnie państwem w ówczesnym świecie.}
 
-Ogrom Imperium Rosyjskiego wiąże się z chęcią carskich możnowładców do podporządkowania sobie znacznej ilości terytoriów i zdobyciem wpływów w najdalszych zakątkach świata. Nazwa ,,Imperium Rosyjskie” została ustanowiona w 1721 r., kiedy to 
-Piotr I przyjął tytuł cesarza (imperatora) i pozostawała w użyciu aż do abdykacji Mikołaja II po wydarzeniach w lutym 1917 r. W tej pracy chciałabym podsumować działania caratu w latach 1795 – 1914, mające na celu poszerzenie terytoriów i wpływów politycznych, od trzeciego rozbioru Polski aż po wybuch I wojny światowej. Imperium Rosyjskie w szczycie swojej potęgi rozciągało się od Morza Czarnego aż po Ochockie, oraz od Morza Arktycznego do terenów dzisiejszej Mongolii, a na kontynencie amerykańskim było w posiadaniu Alaski, co czyniło je trzecim największym terytorialnie państwem w ówczesnym świecie.
-
-
+\normalsize
 \section{Katarzyna II}
 
 	\indent W XVIII w. do znacznego poszerzenia granic kraju przyczyniła się głównie   Katarzyna II, panująca w latach 1762 – 1796. To za jej rządów pod panowaniem rosyjskim znalazło się m.in. całe północne wybrzeże Morza Czarnego oraz znaczna część terenów Rzeczypospolitej, zagarniętych w wyniku trzech rozbiorów.
@@ -25,7 +29,11 @@ Piotr I przyjął tytuł cesarza (imperatora) i pozostawała w użyciu aż do ab
 	 
 	Jeśli chodzi o działania Aleksandra I na terenie Europy, to w wyniku wojny                       ze Szwecją (1808-1809), Rosja zajęła bez wysiłku całą Finlandię i Wyspy Alandzkie,                    z których, w wyniku pertraktacji pokojowych, utworzono Wielkie Księstwo Finlandzkie, gdzie zwierzchnictwo sprawował carski generał-gubernator. Późniejsza zaś wygrana walka                  z  Francją (1812), sprawiła, że Rosja, zgodnie z ustaleniami kongresu wiedeńskiego, otrzymała tereny Księstwa Warszawskiego (wyłączając departamenty bydgoski i poznański, włączone do zaboru pruskiego) przemianowane na Królestwo Polskie, które otrzymało konstytucję, gwarantującą własny sejm, rząd i wojsko, i którego królami mieli być carowie.
 \section{Mikołaj I}
-	
+
+	\begin{center}
+\includegraphics[width=12cm]{imperium}
+\end{center}
+
 	Następca Aleksandra, Mikołaj I, przeszedł do polityki bardziej aktywnej – chciał, aby kwestia cieśnin czarnomorskich (Bosforu i Dardaneli) została rozwiązana pomyślnie dla jego kraju, w czym miało pomóc wsparcie narodów bałkańskich w ich walce powstańczej przeciw Turcji. W 1826 r, Anglia oraz Rosja podpisały układ petersburski nadający Grecji autonomię (w której toczyło się powstanie przeciw Turkom), przy czym Mikołaj wystosował ultimatum do sułtana, w którym zażądał nadanie Mołdawii i Wołoszczyźnie niezależności. Zostało ono przyjęte, w wyniku czego w Akermanie została podpisana konwencja, bardzo korzystna dla Rosji, na mocy której wspomniane w ultimatum kraje oraz Serbia, uzyskały niepodległość. Ponadto Rosja uzyskała swobodny dostęp do kursowania swoich statków handlowych na morzach tureckich. 
 \chapter{Sytuacja polityczna na arenie międzynarodowej}
 	
@@ -33,7 +41,10 @@ Piotr I przyjął tytuł cesarza (imperatora) i pozostawała w użyciu aż do ab
 	
 	Jednakże wciąż sprawa powstania w Grecji niepokoiła największe kraje europejskie. W związku z tym w 1827 r. podpisano układ między Rosją, Anglią i Francją, które zwróciły się do Grecji i Turcji z żądaniem o zawieszenie broni i rozpoczęcie pokojowych pertraktacji. Zostały one odrzucone, co spowodowało działania wojenne wymierzone przeciw Turcji, która poniosła klęskę. Wówczas to sułtan Mahmud II wypowiedział carowi konwencję akermańską i wezwał go do wojny (1828-1829). Zakończyła się ona wygraną Rosji, która w ramach pokoju zawartego w Adrianopolu, otrzymała ujście Dunaju, znaczną część wybrzeża czarnomorskiego, tzw. paszałyk achałcychski oraz protektorat nad Księstwami Mołdawii            i Wołoskim.
 	\section{Wojna krymska}
-	
+
+
+
+
 	Późniejsza, przegrana przez Rosję, wojna krymska (1853-1856) uniemożliwiła kontynuowanie aktywnej polityki zagranicznej wobec cieśnin czarnomorskich, o które zabiegał już Mikołaj I. Ówczesny car, Aleksander II, postawił sobie za cel zniesienie ustaleń zawartych w traktacie paryskim po zakończeniu wojny, traktujących o zakazie posiadania floty wojennej i budowy twierdz przybrzeżnych nad Morzem Czarnym, ponieważ tylko to mogło ustatkować politykę zagraniczną Rosji. Kiedy nastąpiła seria klęsk militarnych Francji i wzięcie do niewoli Napoleona III, kilkanaście lat później (1870) minister spraw zagranicznych książę Aleksander Gorczakow, rozesłał do innych krajów europejskich informację, że Rosja przestaje uznawać postanowienia traktatu paryskiego o neutralności Morza Czarnego, co wywołało sprzeciw ze strony Anglii, Francji i Włoch. Ostatecznie na konferencji w Londynie w 1871 r. doszło do porozumienia – Rosja na powrót otrzymała prawo do utrzymywania floty wojennej na Morzu Czarnym i budowy umocnień na wybrzeżach, jednakże prawo do przepuszczania okrętów przez Bosfor i Dardanele wciąż pozostawiano w rękach Turcji.
 	\subsection{Azja}
 	
@@ -57,8 +68,12 @@ W międzyczasie na starym kontynencie napięte stosunki między najpotężniejsz
 Trzy lata poźniej, w 1917 r., wybuchło powstanie bolszewickie, które szybko doprowadziło do zmierzchu istnienia Imperium Rosyjskiego, które przez prawie dwieście lat podporządkowywało sobie cały świat i było hegemonem na kontynencie europejskim.                   W przeciągu tych wszystkich lat populacja carstwa sukcesywnie się zwiększała – w 1721 r. wynosiła ona 15 mln, w 1858 r. 76 mln, a pod koniec istnienia była to już ogromna, jak na tamte czasy, liczba wynosząca 125,6 mln osób.
 
 Aktualnie, dzięki wysokim ambicjom dawnych władców, Federacja Rosyjska pozostaje wciąż największym krajem na świecie, obejmując swoim terytorium znaczną część Eurazji, a także mając decydujący głos na arenie międzynarodowej. Do dziś jesteśmy świadkami potęgi i ogromu, jaki udało się osiągnąć dynastii Romanowów w stosunkowo krótkim czasie.
-
-
+\bigskip
+\bigskip
+	\begin{center}
+\includegraphics[width=12cm]{rewolucja}
+\end{center}
+\listoftables
 
 BIBLIOGRAFIA
 
