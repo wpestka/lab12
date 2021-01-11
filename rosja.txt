@@ -43,7 +43,7 @@ Piotr I przyjął tytuł cesarza (imperatora) i pozostawała w użyciu aż do ab
 
 
 
-	Następca Aleksandra, Mikołaj I, przeszedł do polityki bardziej aktywnej – chciał, aby kwestia cieśnin czarnomorskich (Bosforu i Dardaneli) została rozwiązana pomyślnie dla jego kraju, w czym miało pomóc wsparcie narodów bałkańskich w ich walce powstańczej przeciw Turcji. W 1826 r, Anglia oraz Rosja podpisały układ petersburski nadający Grecji autonomię (w której toczyło się powstanie przeciw Turkom), przy czym Mikołaj wystosował ultimatum do sułtana, w którym zażądał nadanie Mołdawii i Wołoszczyźnie niezależności. Zostało ono przyjęte, w wyniku czego w Akermanie została podpisana konwencja, bardzo korzystna dla Rosji, na mocy której wspomniane w ultimatum kraje oraz Serbia, uzyskały niepodległość. Ponadto Rosja uzyskała swobodny dostęp do kursowania swoich statków handlowych na morzach tureckich. 
+	Następca Aleksandra, Mikołaj I, przeszedł do polityki bardziej aktywnej – chciał, aby kwestia cieśnin czarnomorskich (Bosforu i Dardaneli) została rozwiązana pomyślnie dla jego kraju, w czym miało pomóc wsparcie narodów bałkańskich w ich walce powstańczej przeciw Turcji. W 1826 r, Anglia oraz Rosja podpisały układ petersburski nadający Grecji autonomię (w której toczyło się powstanie przeciw Turkom), przy czym Mikołaj wystosował ultimatum do sułtana, w którym zażądał nadanie Mołdawii i Wołoszczyźnie niezależności.\cite{bazylow} Zostało ono przyjęte, w wyniku czego w Akermanie została podpisana konwencja, bardzo korzystna dla Rosji, na mocy której wspomniane w ultimatum kraje oraz Serbia, uzyskały niepodległość. Ponadto Rosja uzyskała swobodny dostęp do kursowania swoich statków handlowych na morzach tureckich. 
 \chapter{Sytuacja polityczna na arenie międzynarodowej}
 	
 	Anglia, mimo układu petersburskiego, nie była zadowolona z ultimatum rosyjskiego i konwencji akermańskiej. Chcąc osłabić Rosję, zwróciła się do Persji, aby ta wypowiedziała Rosji wojnę, gdyż chęć odzyskania utraconych w 1813 r. ziem (Azerbejdżan           i Dagestan), cały czas utrzymywała niechęć szacha perskiego do caratu. Rosja okazywała skłonność do ustępstw, jednak kiedy zostały one odrzucone, wybuchła wojna (1826-1828), która została rozstrzygnięta na korzyść Rosji. W miejscowości Turkamnczaj podpisano traktat pokojowy, który zapewniał wygranym nowe nabytki terytorialne – chanaty nachiczewański          i erywański leżące na terytorium Armenii. 
@@ -91,7 +91,7 @@ W międzyczasie na starym kontynencie napięte stosunki między najpotężniejsz
 
 \begin{table}[htbp]
 \centering
-\caption{Tabela rang}
+\caption{Tabela rang \cite{wiki} }
 \label{tab:rangi}
 \begin{tabular}{c|c|c}
 \toprule
@@ -114,10 +114,11 @@ Aktualnie, dzięki wysokim ambicjom dawnych władców, Federacja Rosyjska pozost
 
 \bigskip
 \bigskip
-\begin{center}
 
+\begin{center}
 \includegraphics[width=12cm]{rewolucja}
 \caption{Rewolucja bolszewicka}
+\label{rys:pierwszy}
 \end{center}
 
 
