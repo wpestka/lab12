@@ -1,17 +1,20 @@
 \documentclass{amsbook}
 \usepackage[utf8]{inputenc}
-\usepackage{polski}
 \usepackage{booktabs}
 \usepackage{graphicx}
+\usepackage{polski}
+\usepackage[polish]{babel}
 
 
-\title{Ekspansja terytorialna i polityczna Rosji od 1795 do 1914 r.}
+\huge\title{Ekspansja terytorialna i polityczna Rosji od 1795 do 1914 r.}
 \author{Weronika Pestka} 
 
 
 \begin{document}
+
 \maketitle
-\chapter{Wstęp}
+\tableofcontents
+\chapter{Wprowadzenie}
 \Large\emph{
 Ogrom Imperium Rosyjskiego wiąże się z chęcią carskich możnowładców do podporządkowania sobie znacznej ilości terytoriów i zdobyciem wpływów w najdalszych zakątkach świata. Nazwa \textbf{Imperium~Rosyjskie} została ustanowiona w 1721 r., kiedy to 
 Piotr I przyjął tytuł cesarza (imperatora) i pozostawała w użyciu aż do abdykacji Mikołaja II po wydarzeniach w lutym 1917 r. W tej pracy chciałabym podsumować działania caratu w latach 1795 – 1914, mające na celu poszerzenie terytoriów i wpływów politycznych, od trzeciego rozbioru Polski aż po wybuch I wojny światowej. Imperium Rosyjskie w szczycie swojej potęgi rozciągało się od Morza Czarnego aż po Ochockie, oraz od Morza Arktycznego do terenów dzisiejszej Mongolii, a na kontynencie amerykańskim było w posiadaniu Alaski, co czyniło je trzecim największym terytorialnie państwem w ówczesnym świecie.}
@@ -28,11 +31,17 @@ Piotr I przyjął tytuł cesarza (imperatora) i pozostawała w użyciu aż do ab
 	Niedługo potem, w 1801 r., Paweł I zdecydował się na przyłączenie do swojego państwa wschodniej Gruzji, jednak w dokończeniu tego planu przeszkodziła mu śmierć. Dopiero parę miesięcy później, panujący już wówczas Aleksander I, wydał manifest o zajęciu tych ziem i o usunięciu od władzy rządzącej tam dynastii. W ciągu następnych kilku lat, sposobami stricte militarnymi, przyłączono do Imperium także zachodnią część Gruzji. Spowodowało to niezadowolenie Persji i Turcji, co było bezpośrednią przyczyną wybuchu wojen. Po długoletnich walkach, Rosja, na podstawie pokoju z Turcją, otrzymała w 1812 r. Besarabię, Abchazję, Mingrelię i Gurię, zaś po podpisaniu traktatu z Persją w 1813 r., dorobek terytorialny Rosji poszerzył się o północny Azerbejdżan i Dagestan.\subsection{Działania Aleksandra I}
 	 
 	Jeśli chodzi o działania Aleksandra I na terenie Europy, to w wyniku wojny                       ze Szwecją (1808-1809), Rosja zajęła bez wysiłku całą Finlandię i Wyspy Alandzkie,                    z których, w wyniku pertraktacji pokojowych, utworzono Wielkie Księstwo Finlandzkie, gdzie zwierzchnictwo sprawował carski generał-gubernator. Późniejsza zaś wygrana walka                  z  Francją (1812), sprawiła, że Rosja, zgodnie z ustaleniami kongresu wiedeńskiego, otrzymała tereny Księstwa Warszawskiego (wyłączając departamenty bydgoski i poznański, włączone do zaboru pruskiego) przemianowane na Królestwo Polskie, które otrzymało konstytucję, gwarantującą własny sejm, rząd i wojsko, i którego królami mieli być carowie.
+	\bigskip
 \section{Mikołaj I}
 
 	\begin{center}
+	\begin{figure}
+	\caption{Mapa Imperium Rosyjskiego}
 \includegraphics[width=12cm]{imperium}
+\end{figure}
 \end{center}
+
+
 
 	Następca Aleksandra, Mikołaj I, przeszedł do polityki bardziej aktywnej – chciał, aby kwestia cieśnin czarnomorskich (Bosforu i Dardaneli) została rozwiązana pomyślnie dla jego kraju, w czym miało pomóc wsparcie narodów bałkańskich w ich walce powstańczej przeciw Turcji. W 1826 r, Anglia oraz Rosja podpisały układ petersburski nadający Grecji autonomię (w której toczyło się powstanie przeciw Turkom), przy czym Mikołaj wystosował ultimatum do sułtana, w którym zażądał nadanie Mołdawii i Wołoszczyźnie niezależności. Zostało ono przyjęte, w wyniku czego w Akermanie została podpisana konwencja, bardzo korzystna dla Rosji, na mocy której wspomniane w ultimatum kraje oraz Serbia, uzyskały niepodległość. Ponadto Rosja uzyskała swobodny dostęp do kursowania swoich statków handlowych na morzach tureckich. 
 \chapter{Sytuacja polityczna na arenie międzynarodowej}
@@ -45,16 +54,29 @@ Piotr I przyjął tytuł cesarza (imperatora) i pozostawała w użyciu aż do ab
 
 
 
-	Późniejsza, przegrana przez Rosję, wojna krymska (1853-1856) uniemożliwiła kontynuowanie aktywnej polityki zagranicznej wobec cieśnin czarnomorskich, o które zabiegał już Mikołaj I. Ówczesny car, Aleksander II, postawił sobie za cel zniesienie ustaleń zawartych w traktacie paryskim po zakończeniu wojny, traktujących o zakazie posiadania floty wojennej i budowy twierdz przybrzeżnych nad Morzem Czarnym, ponieważ tylko to mogło ustatkować politykę zagraniczną Rosji. Kiedy nastąpiła seria klęsk militarnych Francji i wzięcie do niewoli Napoleona III, kilkanaście lat później (1870) minister spraw zagranicznych książę Aleksander Gorczakow, rozesłał do innych krajów europejskich informację, że Rosja przestaje uznawać postanowienia traktatu paryskiego o neutralności Morza Czarnego, co wywołało sprzeciw ze strony Anglii, Francji i Włoch. Ostatecznie na konferencji w Londynie w 1871 r. doszło do porozumienia – Rosja na powrót otrzymała prawo do utrzymywania floty wojennej na Morzu Czarnym i budowy umocnień na wybrzeżach, jednakże prawo do przepuszczania okrętów przez Bosfor i Dardanele wciąż pozostawiano w rękach Turcji.
-	\subsection{Azja}
+	Późniejsza, przegrana przez Rosję, wojna krymska (1853-1856) uniemożliwiła kontynuowanie aktywnej polityki zagranicznej wobec cieśnin czarnomorskich, o które zabiegał już Mikołaj I. Ówczesny car, Aleksander II, postawił sobie za cel zniesienie ustaleń zawartych w traktacie paryskim po zakończeniu wojny, traktujących o zakazie posiadania floty wojennej i budowy twierdz przybrzeżnych nad Morzem Czarnym, ponieważ tylko to mogło ustatkować politykę zagraniczną Rosji. Kiedy nastąpiła seria klęsk militarnych Francji i wzięcie do niewoli Napoleona III, kilkanaście lat później (1870) minister spraw zagranicznych książę Aleksander Gorczakow, rozesłał do innych krajów europejskich informację, że Rosja przestaje uznawać postanowienia traktatu paryskiego o neutralności Morza Czarnego, co wywołało sprzeciw ze strony Anglii, Francji i Włoch. Ostatecznie na konferencji w Londynie w 1871 r. doszło do porozumienia – Rosja na powrót otrzymała prawo do utrzymywania floty wojennej na Morzu Czarnym i budowy umocnień na wybrzeżach, jednakże prawo do przepuszczania okrętów przez Bosfor i Dardanele wciąż pozostawiano w rękach Turcji.\\
+	\\
+	\\
+	\\
+	
+	Skutki wojny krymskiej:
+	\small\begin{itemize}
+\item Na mocy traktatu pokojowego zawartego w 1856 r. w Paryżu - Morze Czarne uznano za obszar neutralny, w którym nie mogła przebywać flota wojenna Rosji i Turcji
+\item Zapewniono swobodną żeglugę na Dunaju dla statków handlowych
+\item Rozszerzono autonomię Mołdawii, Wołoszczyzny oraz Serbii w granicach Imperium Osmańskiego
+\item Sułtan zobowiązał się do zrównania praw muzułmanów i chrześcijan
+
+\end{itemize}
+\normalsize
+	\section{Azja}
 	
 	W tym samym czasie na Dalekim Wschodzie oraz Azji Środkowej prowadzone były szeroko zakrojone ekspansje. M. in. w latach 1849 – 1855 pod wpływem ekspedycji kapitana Genadiusza Newelskiego zaczęto zakładać osady rosyjskie w ujściu rzeki Amur (np. Nikołajewsk), zaś w 1853 r. opanowano niedaleko znajdujący się północny Sachalin (południowy dopiero w 1875 r., kiedy to Japończycy oddali go w zamian za Wyspy Kurylskie). W 1858 r. Chiny, w traktacie ajguńskim, oddały Rosji terytoria leżące na lewym brzegu Amuru, a w dwa lata później również Kraj Ussuryjski, na południu którego założono Władywostok, który szybko nabrał znaczenia handlowego i strategicznego. 
 	
 	Natomiast Azja Środkowa od początku XIX w. utrzymywała z Rosją stosunki ekonomiczne polegające głównie na zakupie bawełny, tkanin i przedmiotów codziennego użytku. Jednakże w latach 30. Anglia podjęła próby opanowania Afganistanu. Sprawiło to,               że towary brytyjskie znalazły się na rynkach środkowoazjatyckich. Poprzez rywalizację               z Anglią, Rosja mogła utracić te rynki, dlatego też zaczęto przygotowywać się do ekspansji politycznej na Azję Środkową, na przeszkodzie której stanęły trzy chanaty: Buchary, Kokandzki oraz Chiwy. W 1853 r. Rosjanie zdobyli twierdzę Ak-Meczet i zaczęli budować linię umocnień równolegle do granicy z Kokandem, jednocześnie budując taką samą linię po wschodniej stronie Azji Środkowej. W 1854 r. założono warownię obok północno-wschodniej granicy Kokandu, a w 1856 r. zajęto jedno z jego głównych miast, czyli Taszkient. W 1868 r. Kokand i Buchara uznały swoją zależność od cara. W 1873 r. wymuszono na Chiwie podpisanie układu dającego Rosji przywileje handlowe, odstąpienie części terenów                 i zapłacenie kontrybucji. Buchara i Chiwa zostały wasalami cara, a Kokand zlikwidowano            w 1875 r. i przyłączono jako obwód fergański. Oprócz tego w 1884 r. zdobyto centrum Turkmenii, a w 1885 r. afgańską twierdzę Kuszka. Anglia nie była zadowolona z takiego rozwoju wypadków i obawiała się dalszej ekspansji Rosji na południe. Dlatego też w 1885 r. w Petersburgu wytyczono zadowalającą obie strony granicę rosyjsko-afgańską, która jednocześnie rozgraniczała strefy wpływów obu państw.
-	\subsection{Alaska}
+	\section{Alaska}
 	
 Oprócz tego jednym z ciekawszych epizodów w historii ekspansji politycznej Imperium było zdobycie wpływów na Alasce, która na przełomie XVIII i XIX w. przynosiła znaczne dochody, pomimo, że osadnictwo rosyjskie było tam wówczas słabo rozwinięte                 i działające w atmosferze zagrożeń ze strony okolicznych plemion. Terenami tymi zarządzała Kompania Rosyjsko-Amerykańska, która to głównie korzystała z dochodów czerpanych                 z osadnictwa na Alasce. Oprócz Alaski, w 1808 r. podjęto próbę osiedlenia się w Kalifornii,            a po czterech latach, pomimo jej politycznej przynależności do Hiszpanii, założono tam osiedle rosyjskie ,,Ross” (lub ,,Fort Ross”), które przetrwało aż do 1848 r. Jednak ekspansja carstwa na kontynencie amerykańskim była przyczyną dużego niezadowolenia ze strony Wielkiej Brytanii i Stanów Zjednoczonych, które również miały w planach eksploatację terenów północnych. Z tego powodu w 1824 r. została podpisana konwencja rosyjsko-amerykańska, a w 1825 r. rosyjsko-angielska, które regulowały problemy żeglugi i połowu ryb, a także ustanowiły, że południową granicą ziem rosyjskich będzie 54. równoleżnik. Wkrótce, w 1862 r., wygasły uprawnienia Kampanii Rosyjsko-Amerykańskiej, a do tego trudności w utrzymywaniu i zaopatrywaniu oraz zmniejszonej dochodowości spowodowały, że w 1867 r. zdecydowano się na odsprzedanie Alaski Stanom Zjednoczonym.
-\subsection{Bałkany}
+\section{Bałkany}
 
 W parę lat później powrócił problem hegemonii tureckiej na Bałkanach. Rosja, czynnie zajmująca się zagadnieniem Słowian zamieszkujących tamte ziemie i otaczająca opieką tych, którzy z powodów politycznych zbiegli do carstwa, nie mogła pogodzić się                 z wysoką pozycją Turcji w Europie. Z tego powodu w 1876 r. podpisany został układ austriacko-rosyjski, na mocy którego zachowana miała zostać neutralność w razie wojny Turcji z Serbią i Czarnogórą. W razie zwycięstwa tej pierwszej, miano skłonić ją do wprowadzenia reform w Bośni, zaś w razie przegranej, Rosja zastrzegła sobie prawo do aneksji utraconej wcześniej Besarabii. Rok później Serbia zmuszona była kapitulować, co oznaczało, że jedynie Czarnogóra kontynuowała walkę z Turcją. W tej sytuacji, Rosja pozostając wciąż neutralna, ryzykowałaby utratę swojego autorytetu wśród narodów bałkańskich. Z tegoż powodu w 1877 r. wypowiedziała ona wojnę Turcji. Walki toczyły się na korzyść Rosji, i kiedy jej wojska dotarły praktycznie pod same mury Konstantynopolu, Turcja, będąc w beznadziejnej sytuacji, zgodziła się na podpisanie pokoju, który został zawarty w 1878 r. w San Stefano. W jego ramach niezawisłość zyskały Serbia, Czarnogóra i Rumunia, ale co ważniejsze, Rosja otrzymała Ardahan, Kars i Batum w Transkaukazji oraz zyskała na powrót Besarabię.
 
@@ -63,19 +85,60 @@ Pod koniec XIX w. Daleki Wschód zaczął w znacznym stopniu budzić zainteresow
 Mimo, że car zawarł z Chinami umowę o wycofaniu swoich wojsk z terytorium Mandżurii, wciąż prowadził ekspansję na tych terenach oraz utworzył generał-gubernatorstwo obejmujące obwód amurski i kwantuński. Te działania wywołały niezadowolenie Japonii, która bez wypowiedzenia wojny, w 1904 r. uderzyła na znajdujące się w Porcie Artura jednostki floty rosyjskiej. Japonia odniosła w tej walce zwycięstwo, a Rosja musiała pogodzić się ze stratą obwodu kwantuńskiego, południowej części wyspy Sachalin oraz utratą wpływów w Korei, a także całkowicie wycofać się z Mandżurii. Jednak dwa lata później Japonia i Rosja podpisały tajny układ, który uznawał wpływy japońskie w południowej Mandżurii i Korei, zaś rosyjskie w północnej Mandżurii oraz Mongolii Zewnętrznej.
 
 W międzyczasie na starym kontynencie napięte stosunki między najpotężniejszymi państwami sprawiły, że Europa stała się tykającą bombą, która lada chwila mogła wybuchnąć. W 1887 r. między Ottonem Bismarckiem a carem Aleksandrem III został zawiązany Traktat reasekuracyjny, który był przedłużeniem Sojuszu Trzech Cesarzy (ale z wyłączeniem Austro-Węgier). W 1890 r. Rosja chciała renegocjować jego warunki, jednak następca Bismarcka, Leo von Caprivi, doradził cesarzowi Wilhelmowi II, aby odrzucił tę prośbę. Rosja, w obawie przed Niemcami, zawiązała w 1892 r. sojusz z Francją. Również Anglia obawiała się Niemiec, ze względu na ich rosnącą w siłę marynarkę wojenną, która zagrażała brytyjskim zamorskim posiadłościom. W związku z tym w 1904 r. sprzymierzyła się ona z Francją,                 a w 1907 r. z Rosją, i tym samym powstało tzw. Trójporozumienie. Rozgraniczało ono strefy wpływów – Anglia otrzymała południową Persję i Afganistan, a tym samym Rosja zagarnęła północną Persję. I tym akcentem zakończyła się szeroko zakrojona ekspansja polityczna                  i terytorialna Imperium Rosyjskiego, gdyż przerwał ją wybuch I wojny światowej w 1914 r.
+\bigskip
+\bigskip
+\bigskip
+
+\begin{table}[htbp]
+\centering
+\caption{Tabela rang}
+\label{tab:rangi}
+\begin{tabular}{c|c|c}
+\toprule
+Cywilne & Wojskowe & Dworskie \\
+\midrule
+Dworskie & Feldmarszałek	 & - \\
+Tajny radca & Generał  & Oberkamerher \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
 \chapter{Współczesność}
 
 Trzy lata poźniej, w 1917 r., wybuchło powstanie bolszewickie, które szybko doprowadziło do zmierzchu istnienia Imperium Rosyjskiego, które przez prawie dwieście lat podporządkowywało sobie cały świat i było hegemonem na kontynencie europejskim.                   W przeciągu tych wszystkich lat populacja carstwa sukcesywnie się zwiększała – w 1721 r. wynosiła ona 15 mln, w 1858 r. 76 mln, a pod koniec istnienia była to już ogromna, jak na tamte czasy, liczba wynosząca 125,6 mln osób.
 
 Aktualnie, dzięki wysokim ambicjom dawnych władców, Federacja Rosyjska pozostaje wciąż największym krajem na świecie, obejmując swoim terytorium znaczną część Eurazji, a także mając decydujący głos na arenie międzynarodowej. Do dziś jesteśmy świadkami potęgi i ogromu, jaki udało się osiągnąć dynastii Romanowów w stosunkowo krótkim czasie.
+
+
+
 \bigskip
 \bigskip
-	\begin{center}
+\begin{center}
+
 \includegraphics[width=12cm]{rewolucja}
+\caption{Rewolucja bolszewicka}
 \end{center}
+
+
+
+
 \listoftables
 
-BIBLIOGRAFIA
+\begin{thebibliography}{9}
+\bibitem{bazylow} 
+Ludwik Bazylow.
+\textit{Historia Rosji}. 
+Ossolineum, Warszawa, 1965.
+
+\bibitem{wiki} 
+Alan D. 
+\textit{Tabela Rang}. 
+Wikipedia, 2012.
+
+
+
+\end{thebibliography}
 
 	
 
